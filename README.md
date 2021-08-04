@@ -12,13 +12,11 @@ This specialization is designed to teach learners beginning and intermediate con
 
 # SKILLS YOU WILL GAIN
 Python Programming<br>
-Data Visualization (DataViz)<br>
+Data Visualization<br>
 Statistical Model<br>
 Statistical inference methods<br>
-Statistics<br>
 Data Analysis<br>
 Confidence Interval<br>
-Statistical Inference<br>
 Statistical Hypothesis Testing<br>
 Bayesian Statistics<br>
 Statistical regression<br>
