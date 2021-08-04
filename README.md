@@ -21,4 +21,4 @@ Confidence Interval<br>
 Statistical Inference<br>
 Statistical Hypothesis Testing<br>
 Bayesian Statistics<br>
-statistical regression<br>
+Statistical regression<br>
