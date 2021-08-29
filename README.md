@@ -6,8 +6,11 @@ This specialization is designed to teach learners beginning and intermediate con
 
 # WHAT YOU WILL LEARN
 . Create and interpret data visualizations using the Python programming language and associated packages & libraries<br>
+
 . Apply and interpret inferential procedures when analyzing real data<br>
+
 . Apply statistical modeling techniques to data (ie. linear and logistic regression, linear models, multilevel models, Bayesian inference techniques)<br>
+
 . Understand importance of connecting research questions to data analysis methods.<br>
 
 # SKILLS YOU WILL GAIN
